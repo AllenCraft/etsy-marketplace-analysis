@@ -1,0 +1,15 @@
+# Raw scraped data must never be committed (contains seller identifiers)
+data/
+*.xlsx
+*.xls
+*.csv
+!sample/anonymised_sample.csv
+*.db
+*.sqlite
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store

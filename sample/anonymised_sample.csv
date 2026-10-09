@@ -1,0 +1,301 @@
+source,niche,price_usd_rounded,price_band,has_variants,demand_tier,high_demand,item_reviews_band,shop_reviews_band,favorites_band,bundle_word
+2024-07,Unknown (no title),6.0,$6-10,0,Views only,0,11-100,101-1k,101-1k,0
+2024-07,Unknown (no title),6.0,$6-10,0,In 20+ carts,1,11-100,101-1k,1k-10k,0
+2024-07,Vintage / retro / gallery wall,9.0,$6-10,1,Views only,0,11-100,1k-10k,1k-10k,0
+2024-07,Vintage / retro / gallery wall,7.0,$6-10,0,In 20+ carts,1,101-1k,101-1k,10k+,1
+2024-07,Christian / Bible,12.0,$10-20,0,In 20+ carts,1,11-100,1k-10k,1k-10k,0
+2024-07,Vintage / retro / gallery wall,10.0,$6-10,0,Views only,0,11-100,1k-10k,101-1k,1
+2024-07,Vintage / retro / gallery wall,22.0,over $20,0,In 20+ carts,1,11-100,101-1k,101-1k,1
+2024-06,Templates / cards / planners,84.0,over $20,1,In 1-19 carts,0,1-10,101-1k,101-1k,1
+2024-07,Templates / cards / planners,56.0,over $20,1,In 1-19 carts,0,,,101-1k,0
+2024-06,Vintage / retro / gallery wall,16.0,$10-20,0,Views only,0,11-100,1k-10k,101-1k,1
+2024-06,Nursery / baby / kids,8.0,$6-10,0,In 1-19 carts,0,11-100,101-1k,1k-10k,0
+2024-06,Other wall art,6.0,$4-6,0,In 1-19 carts,0,11-100,101-1k,11-100,0
+2024-07,Nursery / baby / kids,3.0,$2-4,0,In 20+ carts,1,11-100,1k-10k,1k-10k,0
+2024-06,Other,5.0,$4-6,0,In 20+ carts,1,11-100,1k-10k,101-1k,0
+2024-06,Other,2.0,$2-4,0,In 1-19 carts,0,11-100,11-100,101-1k,0
+2024-07,Other,2.0,$2-4,0,Bought recently,1,11-100,11-100,11-100,0
+2024-06,Other wall art,6.0,$4-6,0,In 1-19 carts,0,1-10,101-1k,11-100,0
+2024-06,Vintage / retro / gallery wall,4.0,$2-4,0,In 20+ carts,1,11-100,1k-10k,101-1k,0
+2024-07,Vintage / retro / gallery wall,5.0,$4-6,0,In 20+ carts,1,1-10,101-1k,101-1k,1
+2024-07,Vintage / retro / gallery wall,66.0,over $20,1,In 1-19 carts,0,11-100,10k+,1k-10k,0
+2024-06,Clipart / SVG / PNG,3.0,$2-4,0,Views only,0,11-100,101-1k,11-100,0
+2024-06,Abstract / minimalist / boho,18.0,$10-20,0,Views only,0,11-100,101-1k,1k-10k,1
+2024-07,Nursery / baby / kids,10.0,$10-20,0,In 20+ carts,1,1-10,101-1k,1k-10k,0
+2024-07,Christian / Bible,4.0,$4-6,0,In 20+ carts,1,11-100,1k-10k,1k-10k,0
+2024-06,Floral / botanical / landscape,4.0,$4-6,1,Views only,0,101-1k,101-1k,101-1k,0
+2024-07,Unknown (no title),11.0,$10-20,0,In 20+ carts,1,,,101-1k,0
+2024-07,Vintage / retro / gallery wall,3.0,$2-4,0,In 1-19 carts,0,101-1k,10k+,1k-10k,0
+2024-06,Christian / Bible,5.0,$4-6,0,Views only,0,11-100,1k-10k,101-1k,0
+2024-06,Templates / cards / planners,7.0,$6-10,0,In 1-19 carts,0,11-100,101-1k,101-1k,0
+2024-06,Abstract / minimalist / boho,11.0,$10-20,0,In 20+ carts,1,1-10,101-1k,101-1k,1
+2024-07,Other wall art,11.0,$10-20,0,In 20+ carts,1,11-100,1k-10k,101-1k,0
+2024-06,Other,1.0,up to $2,0,Views only,0,11-100,1k-10k,101-1k,0
+2024-07,Vintage / retro / gallery wall,6.0,$4-6,0,In 20+ carts,1,101-1k,101-1k,10k+,0
+2024-07,Nursery / baby / kids,8.0,$6-10,0,In 20+ carts,1,1-10,101-1k,101-1k,0
+2024-06,Clipart / SVG / PNG,3.0,$2-4,0,In 20+ carts,1,1-10,11-100,101-1k,0
+2024-07,Other wall art,10.0,$6-10,0,In 20+ carts,1,11-100,11-100,1k-10k,1
+2024-07,Unknown (no title),6.0,$4-6,0,In 20+ carts,1,1-10,1k-10k,101-1k,0
+2024-07,Kitchen / bathroom / bar,3.0,$2-4,0,In 20+ carts,1,11-100,101-1k,1k-10k,0
+2024-06,Vintage / retro / gallery wall,4.0,$2-4,0,In 1-19 carts,0,11-100,1k-10k,101-1k,1
+2024-06,Clipart / SVG / PNG,3.0,$2-4,0,Views only,0,11-100,101-1k,101-1k,0
+2024-06,Other wall art,7.0,$6-10,0,In 20+ carts,1,1-10,101-1k,101-1k,0
+2024-06,Floral / botanical / landscape,5.0,$4-6,0,In 20+ carts,1,1-10,11-100,101-1k,1
+2024-06,Templates / cards / planners,14.0,$10-20,0,Bought recently,1,101-1k,101-1k,101-1k,0
+2024-06,Other wall art,2.0,$2-4,1,Views only,0,11-100,1k-10k,1k-10k,0
+2024-07,Nursery / baby / kids,11.0,$10-20,0,In 20+ carts,1,101-1k,1k-10k,1k-10k,1
+2024-06,Vintage / retro / gallery wall,4.0,$2-4,0,In 1-19 carts,0,11-100,10k+,1k-10k,0
+2024-06,Templates / cards / planners,3.0,$2-4,0,Views only,0,11-100,101-1k,101-1k,0
+2024-06,Unknown (no title),5.0,$4-6,0,In 20+ carts,1,,,11-100,0
+2024-07,Unknown (no title),6.0,$4-6,0,In 20+ carts,1,1-10,101-1k,101-1k,0
+2024-06,Other wall art,3.0,$2-4,0,In 1-19 carts,0,11-100,101-1k,11-100,0
+2024-07,Vintage / retro / gallery wall,3.0,$2-4,0,Views only,0,11-100,10k+,1k-10k,0
+2024-06,Abstract / minimalist / boho,5.0,$4-6,0,Views only,0,11-100,1k-10k,101-1k,0
+2024-06,Clipart / SVG / PNG,3.0,$2-4,0,Bought recently,1,,,11-100,1
+2024-06,Nursery / baby / kids,24.0,over $20,1,Views only,0,1-10,10k+,101-1k,1
+2024-06,Vintage / retro / gallery wall,2.0,up to $2,0,Views only,0,,,101-1k,0
+2024-06,Other,6.0,$4-6,0,Bought recently,1,11-100,11-100,101-1k,0
+2024-07,Unknown (no title),5.0,$4-6,0,In 20+ carts,1,1-10,11-100,101-1k,0
+2024-07,Unknown (no title),10.0,$6-10,0,In 1-19 carts,0,1-10,11-100,101-1k,0
+2024-06,Coloring / kids activity,1.0,up to $2,0,Bought recently,1,,,11-100,0
+2024-07,Vintage / retro / gallery wall,3.0,$2-4,0,Views only,0,11-100,11-100,101-1k,1
+2024-07,Unknown (no title),84.0,over $20,0,In 1-19 carts,0,,,101-1k,0
+2024-06,Templates / cards / planners,13.0,$10-20,1,Views only,0,101-1k,1k-10k,1k-10k,0
+2024-06,Clipart / SVG / PNG,3.0,$2-4,0,In 20+ carts,1,,,101-1k,0
+2024-06,Vintage / retro / gallery wall,5.0,$4-6,0,Views only,0,101-1k,1k-10k,1k-10k,1
+2024-07,Vintage / retro / gallery wall,5.0,$4-6,0,In 20+ carts,1,11-100,1k-10k,1k-10k,0
+2024-06,Vintage / retro / gallery wall,4.0,$2-4,0,Bought recently,1,11-100,1k-10k,1k-10k,0
+2024-06,Templates / cards / planners,2.0,$2-4,0,In 20+ carts,1,11-100,101-1k,101-1k,0
+2024-06,Vintage / retro / gallery wall,2.0,$2-4,0,In 1-19 carts,0,,,11-100,0
+2024-06,Coloring / kids activity,2.0,$2-4,0,In 20+ carts,1,101-1k,101-1k,101-1k,0
+2024-07,Vintage / retro / gallery wall,5.0,$4-6,0,In 20+ carts,1,11-100,101-1k,1k-10k,0
+2024-06,Clipart / SVG / PNG,1.0,up to $2,0,Views only,0,11-100,1k-10k,101-1k,0
+2024-06,Vintage / retro / gallery wall,3.0,$2-4,0,In 1-19 carts,0,11-100,1k-10k,1k-10k,0
+2024-06,Other,23.0,over $20,0,Views only,0,1-10,11-100,101-1k,0
+2024-07,Unknown (no title),6.0,$4-6,0,In 20+ carts,1,1-10,11-100,1k-10k,0
+2024-06,Coloring / kids activity,2.0,$2-4,0,In 20+ carts,1,101-1k,1k-10k,1k-10k,0
+2024-07,Vintage / retro / gallery wall,7.0,$6-10,0,In 20+ carts,1,1-10,1k-10k,101-1k,1
+2024-07,Vintage / retro / gallery wall,15.0,$10-20,1,In 20+ carts,1,101-1k,10k+,10k+,0
+2024-06,Clipart / SVG / PNG,2.0,$2-4,0,In 20+ carts,1,11-100,101-1k,101-1k,0
+2024-06,Floral / botanical / landscape,4.0,$4-6,0,Views only,0,101-1k,1k-10k,101-1k,0
+2024-06,Vintage / retro / gallery wall,10.0,$6-10,0,Views only,0,11-100,1k-10k,1k-10k,1
+2024-06,Other,9.0,$6-10,0,In 20+ carts,1,,,101-1k,0
+2024-07,Nursery / baby / kids,10.0,$10-20,0,In 1-19 carts,0,11-100,101-1k,101-1k,1
+2024-06,Vintage / retro / gallery wall,2.0,$2-4,0,In 1-19 carts,0,11-100,1k-10k,101-1k,0
+2024-06,Vintage / retro / gallery wall,1.0,up to $2,0,In 20+ carts,1,,,11-100,1
+2024-07,Vintage / retro / gallery wall,8.0,$6-10,0,In 20+ carts,1,11-100,101-1k,1k-10k,1
+2024-07,Other wall art,5.0,$4-6,0,In 20+ carts,1,11-100,101-1k,101-1k,1
+2024-06,Other,8.0,$6-10,0,In 1-19 carts,0,11-100,101-1k,101-1k,0
+2024-06,"Seasonal (Easter, spring, holiday)",3.0,$2-4,0,Views only,0,,,101-1k,0
+2024-07,Abstract / minimalist / boho,16.0,$10-20,0,In 20+ carts,1,1-10,101-1k,101-1k,1
+2024-07,Unknown (no title),29.0,over $20,0,In 1-19 carts,0,11-100,1k-10k,101-1k,0
+2024-06,Coloring / kids activity,4.0,$2-4,0,In 20+ carts,1,11-100,101-1k,11-100,0
+2024-06,Vintage / retro / gallery wall,16.0,$10-20,0,In 1-19 carts,0,11-100,101-1k,101-1k,1
+2024-07,Vintage / retro / gallery wall,14.0,$10-20,0,Bought recently,1,101-1k,1k-10k,1k-10k,1
+2024-07,Vintage / retro / gallery wall,7.0,$6-10,0,In 20+ carts,1,1-10,101-1k,1k-10k,0
+2024-06,Clipart / SVG / PNG,2.0,up to $2,0,In 1-19 carts,0,11-100,101-1k,101-1k,0
+2024-06,Nursery / baby / kids,7.0,$6-10,0,Views only,0,101-1k,1k-10k,1k-10k,1
+2024-07,Kitchen / bathroom / bar,3.0,$2-4,0,In 20+ carts,1,11-100,10k+,1k-10k,0
+2024-06,Templates / cards / planners,2.0,$2-4,0,In 1-19 carts,0,11-100,101-1k,101-1k,0
+2024-06,Other wall art,30.0,over $20,1,In 20+ carts,1,101-1k,1k-10k,10k+,0
+2024-06,Other,3.0,$2-4,0,In 20+ carts,1,1-10,11-100,11-100,0
+2024-06,Vintage / retro / gallery wall,7.0,$6-10,0,In 1-19 carts,0,1-10,101-1k,11-100,0
+2024-07,Unknown (no title),4.0,$4-6,0,In 20+ carts,1,1-10,101-1k,101-1k,0
+2024-06,Christian / Bible,9.0,$6-10,0,In 1-19 carts,0,11-100,101-1k,101-1k,1
+2024-06,Other wall art,7.0,$6-10,0,In 1-19 carts,0,,,11-100,0
+2024-06,Other wall art,11.0,$10-20,1,In 20+ carts,1,101-1k,1k-10k,1-10,0
+2024-07,Other wall art,5.0,$4-6,0,In 20+ carts,1,101-1k,1k-10k,10k+,0
+2024-07,Unknown (no title),96.0,over $20,1,In 20+ carts,1,11-100,101-1k,1k-10k,0
+2024-06,Coloring / kids activity,4.0,$4-6,0,Bought recently,1,1-10,1k-10k,101-1k,0
+2024-07,Nursery / baby / kids,4.0,$2-4,0,In 20+ carts,1,1-10,11-100,101-1k,0
+2024-07,Kitchen / bathroom / bar,8.0,$6-10,0,In 20+ carts,1,1-10,10k+,101-1k,0
+2024-07,Nursery / baby / kids,15.0,$10-20,1,In 20+ carts,1,101-1k,10k+,10k+,0
+2024-07,Unknown (no title),10.0,$10-20,1,In 1-19 carts,0,,,101-1k,0
+2024-07,Unknown (no title),7.0,$6-10,0,In 20+ carts,1,,,101-1k,0
+2024-06,Clipart / SVG / PNG,2.0,up to $2,0,In 1-19 carts,0,1-10,101-1k,11-100,1
+2024-07,Unknown (no title),13.0,$10-20,0,In 20+ carts,1,1-10,101-1k,101-1k,0
+2024-07,Nursery / baby / kids,13.0,$10-20,0,Views only,0,11-100,101-1k,101-1k,1
+2024-07,Unknown (no title),200.0,over $20,1,In 1-19 carts,0,,,101-1k,0
+2024-06,Other,12.0,$10-20,0,In 20+ carts,1,11-100,101-1k,1k-10k,1
+2024-06,Clipart / SVG / PNG,4.0,$4-6,0,In 20+ carts,1,,,11-100,0
+2024-07,Unknown (no title),1.0,up to $2,0,In 1-19 carts,0,11-100,11-100,101-1k,0
+2024-06,Clipart / SVG / PNG,2.0,$2-4,0,In 1-19 carts,0,11-100,101-1k,101-1k,1
+2024-07,Other wall art,7.0,$6-10,0,In 20+ carts,1,11-100,101-1k,1k-10k,0
+2024-06,Abstract / minimalist / boho,6.0,$4-6,0,In 20+ carts,1,,,101-1k,1
+2024-06,Nursery / baby / kids,5.0,$4-6,0,Views only,0,11-100,101-1k,1k-10k,1
+2024-06,Other wall art,16.0,$10-20,0,In 20+ carts,1,101-1k,1k-10k,1k-10k,1
+2024-07,Other wall art,4.0,$4-6,0,In 20+ carts,1,,,11-100,1
+2024-06,Clipart / SVG / PNG,5.0,$4-6,0,Views only,0,,,11-100,0
+2024-06,Other,13.0,$10-20,0,In 20+ carts,1,11-100,101-1k,101-1k,0
+2024-07,Abstract / minimalist / boho,6.0,$6-10,0,In 20+ carts,1,11-100,11-100,1k-10k,0
+2024-06,Templates / cards / planners,75.0,over $20,1,In 20+ carts,1,11-100,101-1k,1k-10k,0
+2024-06,Coloring / kids activity,5.0,$4-6,0,In 20+ carts,1,11-100,1k-10k,101-1k,0
+2024-06,Clipart / SVG / PNG,6.0,$4-6,0,Low stock only,0,,,11-100,0
+2024-06,Clipart / SVG / PNG,3.0,$2-4,0,In 20+ carts,1,11-100,101-1k,11-100,1
+2024-07,Vintage / retro / gallery wall,12.0,$10-20,0,In 20+ carts,1,,,101-1k,0
+2024-07,Unknown (no title),2.0,$2-4,0,In 1-19 carts,0,11-100,101-1k,101-1k,0
+2024-07,"Seasonal (Easter, spring, holiday)",3.0,$2-4,0,In 20+ carts,1,,,101-1k,0
+2024-06,Vintage / retro / gallery wall,6.0,$4-6,0,Views only,0,11-100,101-1k,1-10,0
+2024-06,Templates / cards / planners,3.0,$2-4,0,In 1-19 carts,0,101-1k,1k-10k,101-1k,0
+2024-06,Nursery / baby / kids,9.0,$6-10,0,In 1-19 carts,0,1-10,1k-10k,101-1k,0
+2024-07,Unknown (no title),9.0,$6-10,0,In 20+ carts,1,1-10,101-1k,1k-10k,0
+2024-07,Unknown (no title),8.0,$6-10,0,In 20+ carts,1,11-100,1k-10k,1k-10k,0
+2024-07,Unknown (no title),7.0,$6-10,0,Views only,0,1-10,11-100,101-1k,0
+2024-07,Templates / cards / planners,82.0,over $20,1,In 20+ carts,1,1-10,11-100,1k-10k,0
+2024-07,Unknown (no title),170.0,over $20,1,In 1-19 carts,0,11-100,1k-10k,1k-10k,0
+2024-07,Templates / cards / planners,3.0,$2-4,0,In 20+ carts,1,1k-10k,1k-10k,1k-10k,0
+2024-06,Vintage / retro / gallery wall,4.0,$2-4,0,Views only,0,11-100,1k-10k,1k-10k,0
+2024-06,Other,2.0,up to $2,0,In 20+ carts,1,11-100,101-1k,101-1k,0
+2024-07,Other,3.0,$2-4,0,In 20+ carts,1,11-100,1k-10k,101-1k,0
+2024-07,Nursery / baby / kids,8.0,$6-10,0,In 1-19 carts,0,,,101-1k,0
+2024-07,Unknown (no title),5.0,$4-6,0,In 20+ carts,1,11-100,101-1k,1k-10k,0
+2024-06,Clipart / SVG / PNG,3.0,$2-4,0,In 20+ carts,1,1-10,11-100,101-1k,0
+2024-07,Vintage / retro / gallery wall,13.0,$10-20,0,In 20+ carts,1,11-100,1k-10k,1k-10k,1
+2024-06,Clipart / SVG / PNG,2.0,up to $2,0,Views only,0,11-100,101-1k,101-1k,1
+2024-06,Coloring / kids activity,5.0,$4-6,0,In 1-19 carts,0,11-100,101-1k,101-1k,0
+2024-07,Other wall art,15.0,$10-20,1,In 20+ carts,1,11-100,1k-10k,1k-10k,0
+2024-07,Unknown (no title),3.0,$2-4,0,In 20+ carts,1,101-1k,101-1k,1k-10k,0
+2024-07,Unknown (no title),16.0,$10-20,0,In 20+ carts,1,,,1k-10k,0
+2024-06,Other wall art,27.0,over $20,1,In 20+ carts,1,101-1k,1k-10k,1k-10k,1
+2024-06,Other wall art,8.0,$6-10,0,In 20+ carts,1,11-100,101-1k,101-1k,0
+2024-07,Templates / cards / planners,5.0,$4-6,0,In 20+ carts,1,,,101-1k,0
+2024-06,Other wall art,10.0,$6-10,1,Bought recently,1,1k-10k,1k-10k,1k-10k,0
+2024-07,Unknown (no title),67.0,over $20,1,Views only,0,1-10,101-1k,101-1k,0
+2024-07,"Seasonal (Easter, spring, holiday)",4.0,$4-6,0,In 20+ carts,1,,,11-100,1
+2024-06,"Seasonal (Easter, spring, holiday)",3.0,$2-4,0,In 20+ carts,1,1-10,1k-10k,101-1k,0
+2024-07,Unknown (no title),14.0,$10-20,0,In 20+ carts,1,11-100,101-1k,101-1k,0
+2024-06,Templates / cards / planners,7.0,$6-10,0,In 1-19 carts,0,11-100,11-100,101-1k,0
+2024-07,Nursery / baby / kids,11.0,$10-20,0,In 20+ carts,1,11-100,1k-10k,101-1k,1
+2024-07,Vintage / retro / gallery wall,3.0,$2-4,0,In 20+ carts,1,11-100,1k-10k,1k-10k,0
+2024-06,Other wall art,46.0,over $20,1,In 20+ carts,1,101-1k,101-1k,1k-10k,1
+2024-06,Vintage / retro / gallery wall,3.0,$2-4,0,Views only,0,1-10,11-100,101-1k,0
+2024-06,Clipart / SVG / PNG,8.0,$6-10,0,In 20+ carts,1,11-100,101-1k,101-1k,0
+2024-07,Kitchen / bathroom / bar,4.0,$2-4,0,In 20+ carts,1,1-10,101-1k,101-1k,0
+2024-06,Abstract / minimalist / boho,2.0,$2-4,0,In 20+ carts,1,,,101-1k,0
+2024-07,Vintage / retro / gallery wall,8.0,$6-10,0,In 20+ carts,1,1-10,101-1k,101-1k,0
+2024-07,Vintage / retro / gallery wall,3.0,$2-4,0,In 1-19 carts,0,11-100,10k+,1k-10k,0
+2024-06,Nursery / baby / kids,25.0,over $20,0,Views only,0,11-100,1k-10k,101-1k,1
+2024-07,Unknown (no title),5.0,$4-6,0,In 20+ carts,1,11-100,11-100,101-1k,0
+2024-06,Vintage / retro / gallery wall,23.0,over $20,0,Views only,0,,,101-1k,0
+2024-06,Clipart / SVG / PNG,2.0,$2-4,0,Views only,0,1-10,101-1k,11-100,0
+2024-07,Vintage / retro / gallery wall,11.0,$10-20,0,In 20+ carts,1,11-100,101-1k,101-1k,1
+2024-07,Clipart / SVG / PNG,1.0,up to $2,0,In 20+ carts,1,101-1k,10k+,1k-10k,1
+2024-06,Other,6.0,$4-6,0,In 20+ carts,1,11-100,101-1k,101-1k,0
+2024-06,Nursery / baby / kids,14.0,$10-20,0,In 1-19 carts,0,11-100,101-1k,101-1k,0
+2024-07,Christian / Bible,7.0,$6-10,0,In 20+ carts,1,11-100,1k-10k,1k-10k,0
+2024-06,Clipart / SVG / PNG,1.0,up to $2,0,Views only,0,101-1k,1k-10k,1k-10k,1
+2024-07,Abstract / minimalist / boho,13.0,$10-20,0,In 20+ carts,1,11-100,1k-10k,1k-10k,0
+2024-07,Nursery / baby / kids,12.0,$10-20,0,In 20+ carts,1,,,101-1k,1
+2024-06,Clipart / SVG / PNG,3.0,$2-4,0,Views only,0,11-100,11-100,101-1k,0
+2024-07,Unknown (no title),11.0,$10-20,0,In 20+ carts,1,11-100,101-1k,101-1k,0
+2024-07,Unknown (no title),4.0,$2-4,0,In 20+ carts,1,11-100,101-1k,101-1k,0
+2024-06,Nursery / baby / kids,11.0,$10-20,0,In 20+ carts,1,11-100,1k-10k,1k-10k,0
+2024-07,"Seasonal (Easter, spring, holiday)",4.0,$2-4,0,In 20+ carts,1,,,101-1k,0
+2024-06,Vintage / retro / gallery wall,4.0,$2-4,0,In 20+ carts,1,11-100,10k+,1k-10k,0
+2024-06,Other,9.0,$6-10,0,Views only,0,,,11-100,0
+2024-07,Christian / Bible,7.0,$6-10,0,In 1-19 carts,0,1-10,1-10,101-1k,0
+2024-07,Nursery / baby / kids,5.0,$4-6,0,In 20+ carts,1,1-10,101-1k,101-1k,0
+2024-07,Unknown (no title),71.0,over $20,0,Views only,0,,,11-100,0
+2024-07,Other wall art,7.0,$6-10,0,In 20+ carts,1,1-10,1k-10k,101-1k,0
+2024-06,Nursery / baby / kids,5.0,$4-6,0,In 20+ carts,1,11-100,1k-10k,101-1k,1
+2024-07,Vintage / retro / gallery wall,9.0,$6-10,0,In 20+ carts,1,1-10,101-1k,1k-10k,0
+2024-07,Vintage / retro / gallery wall,8.0,$6-10,0,In 20+ carts,1,,,101-1k,0
+2024-06,Coloring / kids activity,4.0,$4-6,0,In 20+ carts,1,11-100,1k-10k,101-1k,0
+2024-06,Templates / cards / planners,2.0,$2-4,0,Bought recently,1,1-10,11-100,11-100,0
+2024-06,Floral / botanical / landscape,22.0,over $20,0,In 20+ carts,1,11-100,1k-10k,101-1k,0
+2024-06,Other,3.0,$2-4,0,Bought recently,1,11-100,1k-10k,11-100,0
+2024-06,Other wall art,5.0,$4-6,0,In 1-19 carts,0,11-100,1k-10k,1k-10k,0
+2024-06,Nursery / baby / kids,9.0,$6-10,0,In 1-19 carts,0,11-100,101-1k,101-1k,0
+2024-07,Nursery / baby / kids,11.0,$10-20,0,Views only,0,11-100,101-1k,1k-10k,0
+2024-07,Unknown (no title),6.0,$4-6,0,In 20+ carts,1,,,101-1k,0
+2024-06,Other wall art,16.0,$10-20,0,Views only,0,11-100,11-100,101-1k,1
+2024-06,Christian / Bible,13.0,$10-20,0,In 1-19 carts,0,,,101-1k,1
+2024-06,Abstract / minimalist / boho,3.0,$2-4,0,In 1-19 carts,0,11-100,101-1k,101-1k,0
+2024-07,Templates / cards / planners,4.0,$4-6,0,In 20+ carts,1,11-100,1k-10k,101-1k,0
+2024-07,Unknown (no title),4.0,$2-4,0,In 20+ carts,1,11-100,1k-10k,1k-10k,0
+2024-06,Clipart / SVG / PNG,2.0,up to $2,0,Views only,0,1-10,1-10,1-10,0
+2024-06,Other,22.0,over $20,1,In 20+ carts,1,11-100,101-1k,101-1k,0
+2024-06,Vintage / retro / gallery wall,4.0,$2-4,0,In 20+ carts,1,11-100,10k+,101-1k,0
+2024-07,Abstract / minimalist / boho,7.0,$6-10,0,In 20+ carts,1,11-100,101-1k,1k-10k,1
+2024-07,Kitchen / bathroom / bar,16.0,$10-20,1,In 20+ carts,1,11-100,1k-10k,1k-10k,0
+2024-06,Other wall art,4.0,$4-6,1,Views only,0,101-1k,1k-10k,10k+,0
+2024-07,Vintage / retro / gallery wall,10.0,$6-10,0,In 20+ carts,1,101-1k,1k-10k,1k-10k,1
+2024-07,Vintage / retro / gallery wall,5.0,$4-6,0,Views only,0,1-10,1k-10k,101-1k,0
+2024-07,Vintage / retro / gallery wall,4.0,$2-4,0,In 20+ carts,1,11-100,1k-10k,1k-10k,0
+2024-07,Kitchen / bathroom / bar,5.0,$4-6,0,In 1-19 carts,0,11-100,1k-10k,101-1k,0
+2024-06,Other,7.0,$6-10,0,In 20+ carts,1,,,11-100,0
+2024-07,Kitchen / bathroom / bar,7.0,$6-10,0,In 20+ carts,1,,,101-1k,1
+2024-07,Abstract / minimalist / boho,69.0,over $20,1,In 20+ carts,1,11-100,101-1k,1k-10k,1
+2024-06,Other wall art,3.0,$2-4,0,Views only,0,101-1k,1k-10k,1k-10k,0
+2024-06,Vintage / retro / gallery wall,4.0,$2-4,0,In 20+ carts,1,11-100,1k-10k,1k-10k,0
+2024-06,Clipart / SVG / PNG,7.0,$6-10,0,Views only,0,1-10,101-1k,101-1k,1
+2024-06,"Seasonal (Easter, spring, holiday)",2.0,$2-4,0,In 1-19 carts,0,1-10,1k-10k,101-1k,1
+2024-07,Abstract / minimalist / boho,7.0,$6-10,0,In 20+ carts,1,11-100,101-1k,1k-10k,0
+2024-06,Other wall art,46.0,over $20,0,Low stock only,0,,,11-100,1
+2024-06,Nursery / baby / kids,40.0,over $20,0,Views only,0,11-100,1k-10k,1k-10k,1
+2024-06,Other,6.0,$4-6,0,Views only,0,11-100,11-100,101-1k,0
+2024-07,Vintage / retro / gallery wall,8.0,$6-10,0,In 20+ carts,1,11-100,1k-10k,1k-10k,0
+2024-07,Other wall art,12.0,$10-20,0,In 20+ carts,1,11-100,101-1k,,1
+2024-06,Templates / cards / planners,3.0,$2-4,0,Bought recently,1,1-10,101-1k,11-100,0
+2024-07,Vintage / retro / gallery wall,2.0,$2-4,0,In 20+ carts,1,11-100,1k-10k,1k-10k,0
+2024-07,Nursery / baby / kids,5.0,$4-6,0,In 20+ carts,1,1-10,1k-10k,101-1k,0
+2024-06,Templates / cards / planners,1.0,up to $2,0,Views only,0,11-100,101-1k,101-1k,0
+2024-06,Templates / cards / planners,2.0,$2-4,0,Bought recently,1,1-10,101-1k,11-100,0
+2024-06,Vintage / retro / gallery wall,2.0,up to $2,0,Views only,0,101-1k,10k+,1k-10k,0
+2024-07,Kitchen / bathroom / bar,3.0,$2-4,0,In 20+ carts,1,11-100,10k+,1k-10k,0
+2024-06,Christian / Bible,7.0,$6-10,0,In 20+ carts,1,11-100,1k-10k,1k-10k,0
+2024-06,Clipart / SVG / PNG,2.0,$2-4,0,In 1-19 carts,0,11-100,1k-10k,101-1k,0
+2024-07,Christian / Bible,25.0,over $20,0,In 20+ carts,1,1-10,101-1k,101-1k,1
+2024-06,Christian / Bible,5.0,$4-6,0,In 20+ carts,1,1-10,101-1k,11-100,0
+2024-06,Other,4.0,$2-4,0,In 20+ carts,1,11-100,101-1k,101-1k,0
+2024-06,Floral / botanical / landscape,16.0,$10-20,0,Views only,0,11-100,1k-10k,1k-10k,1
+2024-06,Templates / cards / planners,6.0,$4-6,0,In 20+ carts,1,11-100,101-1k,11-100,0
+2024-06,Nursery / baby / kids,4.0,$2-4,0,Views only,0,11-100,1k-10k,101-1k,0
+2024-07,Christian / Bible,7.0,$6-10,0,In 20+ carts,1,11-100,1k-10k,1k-10k,0
+2024-07,Unknown (no title),6.0,$6-10,0,In 20+ carts,1,1-10,101-1k,101-1k,0
+2024-07,"Seasonal (Easter, spring, holiday)",10.0,$6-10,0,In 1-19 carts,0,11-100,10k+,1k-10k,0
+2024-06,Vintage / retro / gallery wall,13.0,$10-20,1,In 20+ carts,1,101-1k,1k-10k,1k-10k,0
+2024-06,Coloring / kids activity,2.0,$2-4,0,Views only,0,101-1k,1k-10k,1k-10k,0
+2024-06,Other wall art,9.0,$6-10,0,In 20+ carts,1,101-1k,10k+,1k-10k,1
+2024-06,Clipart / SVG / PNG,6.0,$6-10,0,In 20+ carts,1,11-100,101-1k,101-1k,1
+2024-06,Clipart / SVG / PNG,2.0,$2-4,0,Bought recently,1,11-100,101-1k,1-10,0
+2024-07,Unknown (no title),12.0,$10-20,0,Views only,0,11-100,101-1k,101-1k,0
+2024-06,Coloring / kids activity,2.0,$2-4,0,In 20+ carts,1,1-10,1k-10k,101-1k,0
+2024-06,Other wall art,23.0,over $20,0,In 1-19 carts,0,,,101-1k,1
+2024-06,Templates / cards / planners,3.0,$2-4,0,Bought recently,1,1-10,101-1k,11-100,0
+2024-07,Unknown (no title),14.0,$10-20,0,In 20+ carts,1,11-100,101-1k,101-1k,0
+2024-07,Unknown (no title),7.0,$6-10,0,In 20+ carts,1,11-100,1k-10k,1k-10k,0
+2024-06,Vintage / retro / gallery wall,15.0,$10-20,1,In 20+ carts,1,11-100,10k+,1k-10k,0
+2024-07,Unknown (no title),3.0,$2-4,0,In 20+ carts,1,1-10,1-10,101-1k,0
+2024-07,Vintage / retro / gallery wall,12.0,$10-20,0,In 20+ carts,1,101-1k,101-1k,1k-10k,1
+2024-06,Templates / cards / planners,92.0,over $20,1,Views only,0,,,101-1k,0
+2024-07,Unknown (no title),43.0,over $20,1,In 20+ carts,1,,,101-1k,0
+2024-07,Nursery / baby / kids,4.0,$4-6,0,In 1-19 carts,0,11-100,101-1k,101-1k,0
+2024-07,Other wall art,14.0,$10-20,1,Bought recently,1,1k-10k,10k+,,0
+2024-06,Clipart / SVG / PNG,7.0,$6-10,0,Bought recently,1,11-100,101-1k,101-1k,0
+2024-06,Nursery / baby / kids,3.0,$2-4,0,In 20+ carts,1,101-1k,1k-10k,1k-10k,0
+2024-06,Clipart / SVG / PNG,2.0,up to $2,0,In 1-19 carts,0,11-100,101-1k,101-1k,0
+2024-06,Templates / cards / planners,4.0,$4-6,0,Views only,0,11-100,101-1k,11-100,0
+2024-06,Vintage / retro / gallery wall,2.0,up to $2,0,In 1-19 carts,0,,,1-10,1
+2024-06,Clipart / SVG / PNG,2.0,up to $2,0,In 20+ carts,1,11-100,101-1k,11-100,1
+2024-06,Clipart / SVG / PNG,2.0,$2-4,0,In 1-19 carts,0,1-10,101-1k,101-1k,0
+2024-06,Other,10.0,$10-20,0,In 20+ carts,1,11-100,101-1k,101-1k,1
+2024-07,Unknown (no title),10.0,$6-10,0,In 1-19 carts,0,1-10,1k-10k,101-1k,0
+2024-07,Unknown (no title),9.0,$6-10,0,Bought recently,1,,,101-1k,0
+2024-07,Floral / botanical / landscape,8.0,$6-10,0,In 20+ carts,1,101-1k,1k-10k,1k-10k,1
+2024-06,Christian / Bible,2.0,$2-4,0,Bought recently,1,11-100,101-1k,101-1k,0
+2024-06,Clipart / SVG / PNG,2.0,$2-4,0,In 1-19 carts,0,11-100,1k-10k,101-1k,0
+2024-06,Other,19.0,$10-20,0,In 20+ carts,1,11-100,11-100,1k-10k,0
+2024-06,Other,8.0,$6-10,0,In 1-19 carts,0,11-100,101-1k,101-1k,0
+2024-06,Vintage / retro / gallery wall,6.0,$6-10,0,In 20+ carts,1,101-1k,1k-10k,10k+,1
+2024-06,Vintage / retro / gallery wall,1.0,up to $2,0,Low stock only,0,,,1-10,1
+2024-06,Nursery / baby / kids,1.0,up to $2,0,In 20+ carts,1,101-1k,1k-10k,101-1k,0
+2024-07,Christian / Bible,13.0,$10-20,0,In 20+ carts,1,101-1k,101-1k,1k-10k,0
+2024-07,Templates / cards / planners,4.0,$4-6,0,Views only,0,11-100,1k-10k,101-1k,1
+2024-07,"Seasonal (Easter, spring, holiday)",5.0,$4-6,0,In 20+ carts,1,11-100,1k-10k,1k-10k,0
+2024-06,Other wall art,5.0,$4-6,1,In 20+ carts,1,11-100,101-1k,1k-10k,0
+2024-07,Nursery / baby / kids,13.0,$10-20,0,In 20+ carts,1,11-100,101-1k,1k-10k,0
+2024-07,Clipart / SVG / PNG,2.0,up to $2,0,In 20+ carts,1,11-100,1k-10k,101-1k,0
+2024-06,Clipart / SVG / PNG,2.0,up to $2,0,In 20+ carts,1,1-10,101-1k,11-100,0
+2024-06,Clipart / SVG / PNG,3.0,$2-4,0,Views only,0,1-10,101-1k,11-100,1
+2024-06,Kitchen / bathroom / bar,3.0,$2-4,0,Bought recently,1,11-100,10k+,1k-10k,0
